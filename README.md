@@ -36,7 +36,7 @@ tns debug <platform> --bundle
 # Build, watch for changes and run the application
 tns run <platform> --bundle
 
-# In case of truble with the bundle
+# In case of trouble with the bundle
 rm -rf platforms
 ```
 
