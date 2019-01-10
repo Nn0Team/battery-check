@@ -1,0 +1,34 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.Cyclecheck",
+		"tns-android": {
+			"version": "5.1.0"
+		},
+		"tns-ios": {
+			"version": "5.1.0"
+		}
+	},
+	"description": "NativeScript Application",
+	"license": "SEE LICENSE IN <your-license-filename>",
+	"repository": "<fill-your-repository-here>",
+	"dependencies": {
+		"nativescript-dev-webpack": "~0.19.0",
+		"nativescript-socket.io": "^0.9.0",
+		"nativescript-theme-core": "~1.0.4",
+		"nativescript-toast": "^1.4.6",
+		"nativescript-vue": "~2.0.0",
+		"nativescript-vue-devtools": "^1.1.0",
+		"nativescript-vue-template-compiler": "~2.0.0",
+		"tns-core-modules": "~5.1.0",
+		"vuex": "^3.0.1"
+	},
+	"devDependencies": {
+		"@babel/core": "~7.1.0",
+		"@babel/preset-env": "~7.1.0",
+		"@vue/devtools": "^5.0.0-beta.3",
+		"babel-loader": "~8.0.0",
+		"node-sass": "~4.9.0",
+		"vue-loader": "~15.4.0"
+	},
+	"readme": "NativeScript Application"
+}
